@@ -170,7 +170,7 @@ class RICSStore {
                             const xenotypePrice = baseRace.basePrice * baseRace.xenotypePrices[xenotype];
                             xenotypeEntries.push({
                                 defName: `${raceKey}_${xenotype}`,
-                                name: `${baseRace.name} (${xenotype})`,
+                                name: `${baseRace.name} ${xenotype}`, // Changed from "Human (Baseliner)" to "Human Baseliner"
                                 basePrice: Math.round(xenotypePrice),
                                 isXenotype: true,
                                 parentRace: baseRace.name,
@@ -178,7 +178,8 @@ class RICSStore {
                                 priceMultiplier: baseRace.xenotypePrices[xenotype],
                                 minAge: baseRace.minAge,
                                 maxAge: baseRace.maxAge,
-                                enabled: true
+                                enabled: true,
+                                allowedGenders: baseRace.allowedGenders // Pass along gender info
                             });
                         }
                     });
@@ -195,7 +196,8 @@ class RICSStore {
                     allowCustomXenotypes: baseRace.allowCustomXenotypes,
                     defaultXenotype: baseRace.defaultXenotype,
                     enabled: baseRace.enabled,
-                    xenotypeCount: xenotypeEntries.length
+                    xenotypeCount: xenotypeEntries.length,
+                    allowedGenders: baseRace.allowedGenders
                 };
 
                 return [baseRaceEntry, ...xenotypeEntries];
@@ -342,8 +344,7 @@ class RICSStore {
             <td>
                 <div class="item-name">${this.escapeHtml(race.name)}</div>
                 <span class="metadata">
-                    ${race.DisplayName}
-                    ${race.isXenotype ? `<br>Xenotype of ${this.escapeHtml(race.parentRace)}` : ''}
+                    ${race.isXenotype ? `Xenotype of ${this.escapeHtml(race.parentRace)}` : 'Base Race'}
                     ${!race.isXenotype && race.xenotypeCount > 0 ? `<br>${race.xenotypeCount} xenotypes available` : ''}
                     ${race.allowCustomXenotypes ? '<br>Custom xenotypes allowed' : ''}
                 </span>
@@ -355,12 +356,21 @@ class RICSStore {
             <td class="no-wrap">
                 Age: ${race.minAge}-${race.maxAge}
             </td>
-            <td>
-                ${race.isXenotype ? this.escapeHtml(race.xenotype) : 'Base Race'}
-                ${race.defaultXenotype && !race.isXenotype ? `<span class="metadata">Default: ${this.escapeHtml(race.defaultXenotype)}</span>` : ''}
+            <td class="no-wrap">
+                ${this.getAvailableGenders(race.allowedGenders)}
             </td>
         </tr>
     `).join('');
+    }
+
+    // Helper method to format available genders
+    getAvailableGenders(allowedGenders) {
+        const genders = [];
+        if (allowedGenders.AllowMale) genders.push('M');
+        if (allowedGenders.AllowFemale) genders.push('F');
+        if (allowedGenders.AllowOther) genders.push('O');
+
+        return genders.join(' ');
     }
 
     setupEventListeners() {
