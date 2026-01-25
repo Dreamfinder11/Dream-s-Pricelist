@@ -1395,24 +1395,6 @@
     "ModSource": "Anomaly",
     "Version": 1
   },
-  "BS_Giant_0": {
-    "DefName": "BS_Giant",
-    "Name": "Giant",
-    "Degree": 0,
-    "Description": "{PAWN_nameDef} is able to use oversized weapons.",
-    "Stats": [],
-    "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
-    "AddPrice": 150,
-    "RemovePrice": 250,
-    "BypassLimit": false,
-    "CustomName": false,
-    "KarmaTypeForAdding": null,
-    "KarmaTypeForRemoving": null,
-    "ModSource": "Big and Small - Framework",
-    "Version": 1
-  },
   "HAR_Xenophobia_1": {
     "DefName": "HAR_Xenophobia",
     "Name": "Xenophobe",
@@ -3055,24 +3037,6 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Traits Expanded",
-    "Version": 1
-  },
-  "G_Stock_0": {
-    "DefName": "G_Stock",
-    "Name": "Size Mutation",
-    "Degree": 0,
-    "Description": "{PAWN_nameDef} has a size mutation which makes them more durable.",
-    "Stats": [],
-    "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
-    "AddPrice": 150,
-    "RemovePrice": 250,
-    "BypassLimit": false,
-    "CustomName": false,
-    "KarmaTypeForAdding": null,
-    "KarmaTypeForRemoving": null,
-    "ModSource": "Rimframe: Vatgrown Hate",
     "Version": 1
   },
   "VFEP_WarcasketTrait_Mech_0": {
