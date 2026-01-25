@@ -122,7 +122,7 @@
     "BasePrice": 58330,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -239,7 +239,7 @@
     "BasePrice": 291650,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -356,7 +356,7 @@
     "BasePrice": 1900,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -473,7 +473,7 @@
     "BasePrice": 1500,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -590,7 +590,7 @@
     "BasePrice": 850,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -707,7 +707,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -824,7 +824,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -941,7 +941,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1058,7 +1058,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1175,7 +1175,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1292,7 +1292,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1409,7 +1409,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1526,7 +1526,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1643,7 +1643,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1760,7 +1760,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1877,7 +1877,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -1994,7 +1994,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2111,7 +2111,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2228,7 +2228,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2345,7 +2345,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2462,7 +2462,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2696,7 +2696,7 @@
     "BasePrice": 1900,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2813,7 +2813,7 @@
     "BasePrice": 4500,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -2930,7 +2930,7 @@
     "BasePrice": 5500,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {

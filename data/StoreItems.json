@@ -12424,7 +12424,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": false
+      "Enabled": true
     },
     "EggPenguinFertilized": {
       "DefName": "EggPenguinFertilized",
@@ -36877,7 +36877,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 20,
       "Category": "Eggs (unfert.)",
-      "Enabled": false
+      "Enabled": true
     },
     "GR_DinoMilk": {
       "DefName": "GR_DinoMilk",
@@ -60304,7 +60304,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 9,
       "Category": "Eggs (unfert.)",
-      "Enabled": false
+      "Enabled": true
     },
     "AEXP_EggWildGooseFertilized": {
       "DefName": "AEXP_EggWildGooseFertilized",
