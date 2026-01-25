@@ -2316,7 +2316,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCobraFertilized": {
       "DefName": "EggCobraFertilized",
@@ -2335,7 +2335,7 @@
       "Mod": "Core",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCobraUnfertilized": {
       "DefName": "EggCobraUnfertilized",
@@ -2373,7 +2373,7 @@
       "Mod": "Core",
       "BasePrice": 25,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggIguanaUnfertilized": {
       "DefName": "EggIguanaUnfertilized",
@@ -2411,7 +2411,7 @@
       "Mod": "Core",
       "BasePrice": 23,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTortoiseUnfertilized": {
       "DefName": "EggTortoiseUnfertilized",
@@ -2449,7 +2449,7 @@
       "Mod": "Core",
       "BasePrice": 19,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCassowaryUnfertilized": {
       "DefName": "EggCassowaryUnfertilized",
@@ -2487,7 +2487,7 @@
       "Mod": "Core",
       "BasePrice": 18,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggEmuUnfertilized": {
       "DefName": "EggEmuUnfertilized",
@@ -2525,7 +2525,7 @@
       "Mod": "Core",
       "BasePrice": 23,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggOstrichUnfertilized": {
       "DefName": "EggOstrichUnfertilized",
@@ -2563,7 +2563,7 @@
       "Mod": "Core",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTurkeyUnfertilized": {
       "DefName": "EggTurkeyUnfertilized",
@@ -2620,7 +2620,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggGooseUnfertilized": {
       "DefName": "EggGooseUnfertilized",
@@ -2658,7 +2658,7 @@
       "Mod": "Core",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "MedicineHerbal": {
       "DefName": "MedicineHerbal",
@@ -10828,7 +10828,7 @@
       "Mod": "Odyssey",
       "BasePrice": 26,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMonitorLizardUnfertilized": {
       "DefName": "EggMonitorLizardUnfertilized",
@@ -10866,7 +10866,7 @@
       "Mod": "Odyssey",
       "BasePrice": 26,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggFlamingoUnfertilized": {
       "DefName": "EggFlamingoUnfertilized",
@@ -10904,7 +10904,7 @@
       "Mod": "Odyssey",
       "BasePrice": 18,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggHeronUnfertilized": {
       "DefName": "EggHeronUnfertilized",
@@ -10942,7 +10942,7 @@
       "Mod": "Odyssey",
       "BasePrice": 15,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSwanUnfertilized": {
       "DefName": "EggSwanUnfertilized",
@@ -10980,7 +10980,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSparrowUnfertilized": {
       "DefName": "EggSparrowUnfertilized",
@@ -11018,7 +11018,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCrowUnfertilized": {
       "DefName": "EggCrowUnfertilized",
@@ -11056,7 +11056,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBluebirdUnfertilized": {
       "DefName": "EggBluebirdUnfertilized",
@@ -11094,7 +11094,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggQuailUnfertilized": {
       "DefName": "EggQuailUnfertilized",
@@ -11132,7 +11132,7 @@
       "Mod": "Odyssey",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMacawUnfertilized": {
       "DefName": "EggMacawUnfertilized",
@@ -11170,7 +11170,7 @@
       "Mod": "Odyssey",
       "BasePrice": 26,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPeacockUnfertilized": {
       "DefName": "EggPeacockUnfertilized",
@@ -11208,7 +11208,7 @@
       "Mod": "Odyssey",
       "BasePrice": 16,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggVultureUnfertilized": {
       "DefName": "EggVultureUnfertilized",
@@ -11246,7 +11246,7 @@
       "Mod": "Odyssey",
       "BasePrice": 25,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPenguinUnfertilized": {
       "DefName": "EggPenguinUnfertilized",
@@ -11284,7 +11284,7 @@
       "Mod": "Odyssey",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSeaTurtleUnfertilized": {
       "DefName": "EggSeaTurtleUnfertilized",
@@ -11322,7 +11322,7 @@
       "Mod": "Odyssey",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggAlligatorUnfertilized": {
       "DefName": "EggAlligatorUnfertilized",
@@ -17174,7 +17174,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 9,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_FeraliskEggUnfertilized": {
       "DefName": "AA_FeraliskEggUnfertilized",
@@ -17212,7 +17212,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 100,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggNightlingUnfertilized": {
       "DefName": "AA_EggNightlingUnfertilized",
@@ -17250,7 +17250,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 19,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggMeadowAveUnfertilized": {
       "DefName": "AA_EggMeadowAveUnfertilized",
@@ -17288,7 +17288,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 19,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggNightAveFertilized": {
       "DefName": "AA_EggNightAveFertilized",
@@ -17307,7 +17307,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 35,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggRoyalAveFertilized": {
       "DefName": "AA_EggRoyalAveFertilized",
@@ -17326,7 +17326,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 135,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggRoughPlatedMonitorFertilized": {
       "DefName": "AA_EggRoughPlatedMonitorFertilized",
@@ -17345,7 +17345,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 10,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_AtispecEggFertilized": {
       "DefName": "AA_AtispecEggFertilized",
@@ -17364,7 +17364,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 1,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_AtispecEggUnfertilized": {
       "DefName": "AA_AtispecEggUnfertilized",
@@ -17402,7 +17402,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 1,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_ButterflyEggUnfertilized": {
       "DefName": "AA_ButterflyEggUnfertilized",
@@ -17440,7 +17440,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 1,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_FireWaspEggFertilized": {
       "DefName": "AA_FireWaspEggFertilized",
@@ -17459,7 +17459,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_FireWaspEggUnfertilized": {
       "DefName": "AA_FireWaspEggUnfertilized",
@@ -17497,7 +17497,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 10,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggCrescendoAnoleFertilized": {
       "DefName": "AA_EggCrescendoAnoleFertilized",
@@ -17516,7 +17516,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 9,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggCrescendoAnoleUnfertilized": {
       "DefName": "AA_EggCrescendoAnoleUnfertilized",
@@ -17554,7 +17554,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 45,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggPedigreedRaptorUnfertilized": {
       "DefName": "AA_EggPedigreedRaptorUnfertilized",
@@ -17592,7 +17592,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 1,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_EggGiantCrownedSilkieUnfertilized": {
       "DefName": "AA_EggGiantCrownedSilkieUnfertilized",
@@ -17630,7 +17630,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 9,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_AerofleetMeat": {
       "DefName": "AA_AerofleetMeat",
@@ -26769,7 +26769,7 @@
       "Mod": "Megafauna",
       "BasePrice": 200,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggArthropleuraFertilized": {
       "DefName": "EggArthropleuraFertilized",
@@ -26788,7 +26788,7 @@
       "Mod": "Megafauna",
       "BasePrice": 125,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTitanisFertilized": {
       "DefName": "EggTitanisFertilized",
@@ -26807,7 +26807,7 @@
       "Mod": "Megafauna",
       "BasePrice": 80,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "DoedicurusShell": {
       "DefName": "DoedicurusShell",
@@ -26959,7 +26959,7 @@
       "Mod": "Megafauna",
       "BasePrice": 90,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "SivatheriumMilk": {
       "DefName": "SivatheriumMilk",
@@ -26997,7 +26997,7 @@
       "Mod": "Megafauna",
       "BasePrice": 70,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggQuinkanaFertilized": {
       "DefName": "EggQuinkanaFertilized",
@@ -27016,7 +27016,7 @@
       "Mod": "Megafauna",
       "BasePrice": 90,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMegalochelysFertilized": {
       "DefName": "EggMegalochelysFertilized",
@@ -27035,7 +27035,7 @@
       "Mod": "Megafauna",
       "BasePrice": 160,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPalaeeudyptesFertilized": {
       "DefName": "EggPalaeeudyptesFertilized",
@@ -27054,7 +27054,7 @@
       "Mod": "Megafauna",
       "BasePrice": 130,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggGigantophisFertilized": {
       "DefName": "EggGigantophisFertilized",
@@ -27073,7 +27073,7 @@
       "Mod": "Megafauna",
       "BasePrice": 180,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPurussaurusFertilized": {
       "DefName": "EggPurussaurusFertilized",
@@ -27092,7 +27092,7 @@
       "Mod": "Megafauna",
       "BasePrice": 200,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMeganeuraFertilized": {
       "DefName": "EggMeganeuraFertilized",
@@ -27111,7 +27111,7 @@
       "Mod": "Megafauna",
       "BasePrice": 70,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "JosephoartigasiaWool": {
       "DefName": "JosephoartigasiaWool",
@@ -27206,7 +27206,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 140,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTyrannosaurusRexUnfertilized": {
       "DefName": "EggTyrannosaurusRexUnfertilized",
@@ -27244,7 +27244,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 120,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggYutyrannusUnfertilized": {
       "DefName": "EggYutyrannusUnfertilized",
@@ -27282,7 +27282,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 80,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCarnotaurusUnfertilized": {
       "DefName": "EggCarnotaurusUnfertilized",
@@ -27320,7 +27320,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 80,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggAllosaurusUnfertilized": {
       "DefName": "EggAllosaurusUnfertilized",
@@ -27358,7 +27358,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 80,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggSpinosaurusUnfertilized": {
       "DefName": "EggSpinosaurusUnfertilized",
@@ -27396,7 +27396,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 80,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBaryonyxUnfertilized": {
       "DefName": "EggBaryonyxUnfertilized",
@@ -27434,7 +27434,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 40,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggAnkylosaurusUnfertilized": {
       "DefName": "EggAnkylosaurusUnfertilized",
@@ -27472,7 +27472,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 40,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMinmiUnfertilized": {
       "DefName": "EggMinmiUnfertilized",
@@ -27510,7 +27510,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 50,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBrachiosaurusUnfertilized": {
       "DefName": "EggBrachiosaurusUnfertilized",
@@ -27548,7 +27548,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 50,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBrontosaurusUnfertilized": {
       "DefName": "EggBrontosaurusUnfertilized",
@@ -27586,7 +27586,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 50,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggDiplodocusUnfertilized": {
       "DefName": "EggDiplodocusUnfertilized",
@@ -27624,7 +27624,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMagyarosaurusUnfertilized": {
       "DefName": "EggMagyarosaurusUnfertilized",
@@ -27662,7 +27662,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggUtahraptorUnfertilized": {
       "DefName": "EggUtahraptorUnfertilized",
@@ -27700,7 +27700,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggDakotaraptorUnfertilized": {
       "DefName": "EggDakotaraptorUnfertilized",
@@ -27738,7 +27738,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggDilophosaurusUnfertilized": {
       "DefName": "EggDilophosaurusUnfertilized",
@@ -27776,7 +27776,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggVelociraptorUnfertilized": {
       "DefName": "EggVelociraptorUnfertilized",
@@ -27814,7 +27814,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCompsognathusUnfertilized": {
       "DefName": "EggCompsognathusUnfertilized",
@@ -27852,7 +27852,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggGallimimusUnfertilized": {
       "DefName": "EggGallimimusUnfertilized",
@@ -27890,7 +27890,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggGigantoraptorUnfertilized": {
       "DefName": "EggGigantoraptorUnfertilized",
@@ -27928,7 +27928,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggIguanodonUnfertilized": {
       "DefName": "EggIguanodonUnfertilized",
@@ -27966,7 +27966,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPachycephalosaurusUnfertilized": {
       "DefName": "EggPachycephalosaurusUnfertilized",
@@ -28004,7 +28004,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggStygimolochUnfertilized": {
       "DefName": "EggStygimolochUnfertilized",
@@ -28042,7 +28042,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggDryosaurusUnfertilized": {
       "DefName": "EggDryosaurusUnfertilized",
@@ -28080,7 +28080,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggParasaurUnfertilized": {
       "DefName": "EggParasaurUnfertilized",
@@ -28118,7 +28118,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggCorythosaurusUnfertilized": {
       "DefName": "EggCorythosaurusUnfertilized",
@@ -28156,7 +28156,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggDeinocheirusUnfertilized": {
       "DefName": "EggDeinocheirusUnfertilized",
@@ -28194,7 +28194,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTherizinosaurusUnfertilized": {
       "DefName": "EggTherizinosaurusUnfertilized",
@@ -28232,7 +28232,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggStegosaurusUnfertilized": {
       "DefName": "EggStegosaurusUnfertilized",
@@ -28270,7 +28270,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggTriceratopsUnfertilized": {
       "DefName": "EggTriceratopsUnfertilized",
@@ -28308,7 +28308,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggProtoceratopsUnfertilized": {
       "DefName": "EggProtoceratopsUnfertilized",
@@ -28346,7 +28346,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggQuetzalcoatlusUnfertilized": {
       "DefName": "EggQuetzalcoatlusUnfertilized",
@@ -28384,7 +28384,7 @@
       "Mod": "Dinosauria",
       "BasePrice": 30,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPteranodonUnfertilized": {
       "DefName": "EggPteranodonUnfertilized",
@@ -35015,7 +35015,7 @@
       "Mod": "Alpha Genes",
       "BasePrice": 100,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AG_Ultima": {
       "DefName": "AG_Ultima",
@@ -47897,7 +47897,7 @@
       "Mod": "Star Wars : The Force Standalone",
       "BasePrice": 140,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "SithSorcery_EggTerentatekUnFertilized": {
       "DefName": "SithSorcery_EggTerentatekUnFertilized",
@@ -50025,7 +50025,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 24,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggPlatypusUnfertilized": {
       "DefName": "AEXP_EggPlatypusUnfertilized",
@@ -50063,7 +50063,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 9,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggDesertTortoiseUnfertilized": {
       "DefName": "AEXP_EggDesertTortoiseUnfertilized",
@@ -50101,7 +50101,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 28,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggGilaMonsterUnfertilized": {
       "DefName": "AEXP_EggGilaMonsterUnfertilized",
@@ -50139,7 +50139,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 32,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggRattlesnakeUnfertilized": {
       "DefName": "AEXP_EggRattlesnakeUnfertilized",
@@ -50177,7 +50177,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 40,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggWildGooseUnfertilized": {
       "DefName": "AEXP_EggWildGooseUnfertilized",
@@ -50215,7 +50215,7 @@
       "Mod": "Vanilla Animals Expanded",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggAnacondaUnfertilized": {
       "DefName": "AEXP_EggAnacondaUnfertilized",
@@ -50348,7 +50348,7 @@
       "Mod": "Vanilla Animals Expanded — Endangered",
       "BasePrice": 19,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggMoaUnfertilized": {
       "DefName": "AEXP_EggMoaUnfertilized",
@@ -50386,7 +50386,7 @@
       "Mod": "Vanilla Animals Expanded — Endangered",
       "BasePrice": 15,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AEXP_EggRockhopperPenguinUnfertilized": {
       "DefName": "AEXP_EggRockhopperPenguinUnfertilized",
@@ -50443,7 +50443,7 @@
       "Mod": "Vanilla Animals Expanded — Royal Animals",
       "BasePrice": 11,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VAERoy_EggCraneUnfertilized": {
       "DefName": "VAERoy_EggCraneUnfertilized",
@@ -50481,7 +50481,7 @@
       "Mod": "Vanilla Animals Expanded — Royal Animals",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VAERoy_EggPheasantUnfertilized": {
       "DefName": "VAERoy_EggPheasantUnfertilized",
@@ -50519,7 +50519,7 @@
       "Mod": "Vanilla Animals Expanded — Royal Animals",
       "BasePrice": 40,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VAERoy_EggMegaChickenUnfertilized": {
       "DefName": "VAERoy_EggMegaChickenUnfertilized",
@@ -50576,7 +50576,7 @@
       "Mod": "Vanilla Animals Expanded — Waste Animals",
       "BasePrice": 25,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VAEWaste_EggToxiguanaUnfertilized": {
       "DefName": "VAEWaste_EggToxiguanaUnfertilized",
@@ -50614,7 +50614,7 @@
       "Mod": "Vanilla Animals Expanded — Waste Animals",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VAEWaste_EggHydraUnfertilized": {
       "DefName": "VAEWaste_EggHydraUnfertilized",
