@@ -1,10 +1,10 @@
 {
-  "total": 11,
+  "total": 13,
   "viewers": [
     {
       "username": "dreamfinder11",
-      "karma": 103,
-      "coins": 9890,
+      "karma": 106,
+      "coins": 9804,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
@@ -13,7 +13,7 @@
     {
       "username": "captolamia",
       "karma": 100,
-      "coins": 400,
+      "coins": 900,
       "isBanned": false,
       "platformIds": {
         "twitch": "58513264"
@@ -22,7 +22,7 @@
     {
       "username": "streamelements",
       "karma": 100,
-      "coins": 550,
+      "coins": 1660,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
@@ -31,7 +31,7 @@
     {
       "username": "comfy_salieri",
       "karma": 108,
-      "coins": 416,
+      "coins": 672,
       "isBanned": false,
       "platformIds": {
         "twitch": "255003222"
@@ -39,8 +39,8 @@
     },
     {
       "username": "pixelated_grace",
-      "karma": 106,
-      "coins": 10101,
+      "karma": 155,
+      "coins": 5172,
       "isBanned": false,
       "platformIds": {
         "twitch": "176918828"
@@ -67,14 +67,14 @@
     {
       "username": "twitch:72245813",
       "karma": 100,
-      "coins": 400,
+      "coins": 480,
       "isBanned": false,
       "platformIds": {}
     },
     {
       "username": "cubile_oddity",
-      "karma": 100,
-      "coins": 1559,
+      "karma": 110,
+      "coins": 402,
       "isBanned": false,
       "platformIds": {
         "twitch": "487101349"
@@ -82,8 +82,8 @@
     },
     {
       "username": "roflrawrvt",
-      "karma": 100,
-      "coins": 230,
+      "karma": 107,
+      "coins": 449,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -92,10 +92,28 @@
     {
       "username": "tikay_1",
       "karma": 100,
-      "coins": 240,
+      "coins": 520,
       "isBanned": false,
       "platformIds": {
         "twitch": "182649027"
+      }
+    },
+    {
+      "username": "cotton_cone",
+      "karma": 104,
+      "coins": 205,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "259318824"
+      }
+    },
+    {
+      "username": "abagz3",
+      "karma": 100,
+      "coins": 1521,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "119319783"
       }
     }
   ]
