@@ -1,13 +1,101 @@
 {
-  "total": 1,
+  "total": 11,
   "viewers": [
     {
       "username": "dreamfinder11",
-      "karma": 100,
-      "coins": 10100,
+      "karma": 103,
+      "coins": 9890,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
+      }
+    },
+    {
+      "username": "captolamia",
+      "karma": 100,
+      "coins": 400,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "58513264"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100,
+      "coins": 550,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    },
+    {
+      "username": "comfy_salieri",
+      "karma": 108,
+      "coins": 416,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "255003222"
+      }
+    },
+    {
+      "username": "pixelated_grace",
+      "karma": 106,
+      "coins": 10101,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "176918828"
+      }
+    },
+    {
+      "username": "smitchy_the_kidd",
+      "karma": 100,
+      "coins": 400,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "122266519"
+      }
+    },
+    {
+      "username": "w0nderlandinc",
+      "karma": 100,
+      "coins": 1148,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "435908421"
+      }
+    },
+    {
+      "username": "twitch:72245813",
+      "karma": 100,
+      "coins": 400,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "cubile_oddity",
+      "karma": 100,
+      "coins": 1559,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "487101349"
+      }
+    },
+    {
+      "username": "roflrawrvt",
+      "karma": 100,
+      "coins": 230,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "254954818"
+      }
+    },
+    {
+      "username": "tikay_1",
+      "karma": 100,
+      "coins": 240,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "182649027"
       }
     }
   ]
