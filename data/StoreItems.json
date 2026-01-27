@@ -21449,7 +21449,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 500,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_BedBug": {
       "DefName": "AA_BedBug",
