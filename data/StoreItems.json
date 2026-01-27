@@ -2297,7 +2297,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": false
+      "Enabled": true
     },
     "EggChickenFertilized": {
       "DefName": "EggChickenFertilized",
