@@ -630,9 +630,17 @@
     "CommandAlias": "",
     "useCommandCooldown": false,
     "MaxUsesPerCooldownPeriod": 0,
-    "AllowedRaidTypes": [],
-    "AllowedRaidStrategies": [],
-    "DefaultRaidWager": 5000,
+    "AllowedRaidTypes": [
+      "mech",
+      "standard"
+    ],
+    "AllowedRaidStrategies": [
+      "default",
+      "immediate",
+      "stage",
+      "siege"
+    ],
+    "DefaultRaidWager": 1000,
     "MinRaidWager": 1000,
     "MaxRaidWager": 20000,
     "DefaultMilitaryAidWager": 1500,

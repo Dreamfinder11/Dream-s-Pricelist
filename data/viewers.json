@@ -1,10 +1,10 @@
 {
-  "total": 13,
+  "total": 14,
   "viewers": [
     {
       "username": "dreamfinder11",
       "karma": 106,
-      "coins": 9804,
+      "coins": 10708,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
@@ -22,7 +22,7 @@
     {
       "username": "streamelements",
       "karma": 100,
-      "coins": 1660,
+      "coins": 8740,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
@@ -40,7 +40,7 @@
     {
       "username": "pixelated_grace",
       "karma": 155,
-      "coins": 5172,
+      "coins": 11059,
       "isBanned": false,
       "platformIds": {
         "twitch": "176918828"
@@ -65,16 +65,9 @@
       }
     },
     {
-      "username": "twitch:72245813",
-      "karma": 100,
-      "coins": 480,
-      "isBanned": false,
-      "platformIds": {}
-    },
-    {
       "username": "cubile_oddity",
-      "karma": 110,
-      "coins": 402,
+      "karma": 186,
+      "coins": 963,
       "isBanned": false,
       "platformIds": {
         "twitch": "487101349"
@@ -82,8 +75,8 @@
     },
     {
       "username": "roflrawrvt",
-      "karma": 107,
-      "coins": 449,
+      "karma": 177,
+      "coins": 623,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -101,7 +94,7 @@
     {
       "username": "cotton_cone",
       "karma": 104,
-      "coins": 205,
+      "coins": 1302,
       "isBanned": false,
       "platformIds": {
         "twitch": "259318824"
@@ -115,6 +108,20 @@
       "platformIds": {
         "twitch": "119319783"
       }
+    },
+    {
+      "username": "twitch:487101349",
+      "karma": 100,
+      "coins": 1020,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "twitch:72245813",
+      "karma": 100,
+      "coins": 100,
+      "isBanned": false,
+      "platformIds": {}
     }
   ]
 }
