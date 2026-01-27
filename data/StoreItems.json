@@ -42081,7 +42081,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 1100,
+      "BasePrice": 2100,
       "Category": "Animals",
       "Enabled": true
     },
@@ -42119,7 +42119,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 150,
+      "BasePrice": 1150,
       "Category": "Animals",
       "Enabled": true
     },
@@ -42138,7 +42138,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 1000,
+      "BasePrice": 2000,
       "Category": "Animals",
       "Enabled": true
     },
@@ -42157,7 +42157,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 740,
+      "BasePrice": 1740,
       "Category": "Animals",
       "Enabled": true
     },
@@ -42195,7 +42195,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 200,
+      "BasePrice": 1200,
       "Category": "Animals",
       "Enabled": true
     },
@@ -42214,7 +42214,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 750,
+      "BasePrice": 1750,
       "Category": "Animals",
       "Enabled": true
     },
@@ -42271,7 +42271,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
-      "BasePrice": 850,
+      "BasePrice": 1850,
       "Category": "Animals",
       "Enabled": true
     },

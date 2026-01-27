@@ -4,7 +4,7 @@
     {
       "username": "dreamfinder11",
       "karma": 106,
-      "coins": 10708,
+      "coins": 14298,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
@@ -22,7 +22,7 @@
     {
       "username": "streamelements",
       "karma": 100,
-      "coins": 8740,
+      "coins": 15740,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
@@ -30,8 +30,8 @@
     },
     {
       "username": "comfy_salieri",
-      "karma": 108,
-      "coins": 672,
+      "karma": 141,
+      "coins": 3384,
       "isBanned": false,
       "platformIds": {
         "twitch": "255003222"
@@ -66,8 +66,8 @@
     },
     {
       "username": "cubile_oddity",
-      "karma": 186,
-      "coins": 963,
+      "karma": 310,
+      "coins": 3526,
       "isBanned": false,
       "platformIds": {
         "twitch": "487101349"
@@ -75,8 +75,8 @@
     },
     {
       "username": "roflrawrvt",
-      "karma": 177,
-      "coins": 623,
+      "karma": 331,
+      "coins": 2293,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -119,7 +119,7 @@
     {
       "username": "twitch:72245813",
       "karma": 100,
-      "coins": 100,
+      "coins": 1020,
       "isBanned": false,
       "platformIds": {}
     }
