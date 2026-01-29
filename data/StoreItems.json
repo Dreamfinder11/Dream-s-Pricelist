@@ -2297,7 +2297,7 @@
       "Mod": "Core",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggChickenFertilized": {
       "DefName": "EggChickenFertilized",
@@ -12424,7 +12424,7 @@
       "Mod": "Odyssey",
       "BasePrice": 7,
       "Category": "Eggs (unfert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "EggPenguinFertilized": {
       "DefName": "EggPenguinFertilized",
@@ -41722,7 +41722,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 3000,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_Mechalope": {
       "DefName": "GR_Mechalope",
@@ -52723,7 +52723,7 @@
       "Mod": "Rim-Robots_",
       "BasePrice": 2330,
       "Category": "Items",
-      "Enabled": true
+      "Enabled": false
     },
     "ComponentPersona": {
       "DefName": "ComponentPersona",
@@ -88272,7 +88272,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 9,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "RB_RandomAlphaResearch": {
       "DefName": "RB_RandomAlphaResearch",
@@ -88386,7 +88386,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_SpinobearEggFertilized": {
       "DefName": "GR_SpinobearEggFertilized",
@@ -88443,7 +88443,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_TriceraffaloEggFertilized": {
       "DefName": "GR_TriceraffaloEggFertilized",
@@ -88538,7 +88538,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 20,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_MantistanisEggFertilized": {
       "DefName": "GR_MantistanisEggFertilized",
@@ -88842,7 +88842,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_ChickenlopeEggFertilized": {
       "DefName": "GR_ChickenlopeEggFertilized",
@@ -88861,7 +88861,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_ChickenffaloEggFertilized": {
       "DefName": "GR_ChickenffaloEggFertilized",
@@ -88880,7 +88880,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_ChickenwolfEggFertilized": {
       "DefName": "GR_ChickenwolfEggFertilized",
@@ -88899,7 +88899,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_ChickenrabbitEggFertilized": {
       "DefName": "GR_ChickenrabbitEggFertilized",
@@ -88918,7 +88918,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 9,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_ChickencatEggFertilized": {
       "DefName": "GR_ChickencatEggFertilized",
@@ -88937,7 +88937,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_BoomachickenEggFertilized": {
       "DefName": "GR_BoomachickenEggFertilized",
@@ -89013,7 +89013,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_ChickenhorseEggFertilized": {
       "DefName": "GR_ChickenhorseEggFertilized",
@@ -89032,7 +89032,7 @@
       "Mod": "Vanilla Genetics Expanded",
       "BasePrice": 7,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "GR_TurkeymanEggFertilized": {
       "DefName": "GR_TurkeymanEggFertilized",
@@ -90134,7 +90134,7 @@
       "Mod": "Star Wars : The Force Standalone",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VCE_DeepFriedBigMeat": {
       "DefName": "VCE_DeepFriedBigMeat",
@@ -92110,7 +92110,7 @@
       "Mod": "Vanilla Races Expanded - Saurid",
       "BasePrice": 100,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "VRecyclingE_TrashBrick": {
       "DefName": "VRecyclingE_TrashBrick",
