@@ -622,7 +622,7 @@
   },
   "raid": {
     "Enabled": true,
-    "CooldownSeconds": 5,
+    "CooldownSeconds": 60,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",
@@ -632,13 +632,17 @@
     "MaxUsesPerCooldownPeriod": 0,
     "AllowedRaidTypes": [
       "mech",
-      "standard"
+      "standard",
+      "mechcluster",
+      "water",
+      "dropedge"
     ],
     "AllowedRaidStrategies": [
       "default",
       "immediate",
       "stage",
-      "siege"
+      "siege",
+      "smart"
     ],
     "DefaultRaidWager": 1000,
     "MinRaidWager": 1000,
