@@ -553,7 +553,7 @@
   },
   "event": {
     "Enabled": true,
-    "CooldownSeconds": 5,
+    "CooldownSeconds": 30,
     "Cost": 0,
     "SupportsCost": false,
     "PermissionLevel": "everyone",

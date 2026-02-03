@@ -1,10 +1,10 @@
 {
-  "total": 14,
+  "total": 17,
   "viewers": [
     {
       "username": "dreamfinder11",
-      "karma": 116,
-      "coins": 16485,
+      "karma": 178,
+      "coins": 22362,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
@@ -22,7 +22,7 @@
     {
       "username": "streamelements",
       "karma": 100,
-      "coins": 26590,
+      "coins": 42740,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
@@ -66,8 +66,8 @@
     },
     {
       "username": "cubile_oddity",
-      "karma": 613,
-      "coins": 6665,
+      "karma": 998,
+      "coins": 41470,
       "isBanned": false,
       "platformIds": {
         "twitch": "487101349"
@@ -75,8 +75,8 @@
     },
     {
       "username": "roflrawrvt",
-      "karma": 770,
-      "coins": 14979,
+      "karma": 999,
+      "coins": 9224,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -122,6 +122,33 @@
       "coins": 1020,
       "isBanned": false,
       "platformIds": {}
+    },
+    {
+      "username": "pegasus96xd",
+      "karma": 100,
+      "coins": 1180,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1146180892"
+      }
+    },
+    {
+      "username": "evolnala",
+      "karma": 100,
+      "coins": 4950,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "631173662"
+      }
+    },
+    {
+      "username": "glitchthejoyfulkitty",
+      "karma": 100,
+      "coins": 1414,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1376332131"
+      }
     }
   ]
 }

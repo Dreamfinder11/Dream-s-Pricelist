@@ -144,7 +144,7 @@
       "QuantityLimit": 1500,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -321,7 +321,7 @@
       "Mod": "Core",
       "BasePrice": 97,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "SculptureSmall": {
       "DefName": "SculptureSmall",
@@ -2367,7 +2367,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2386,7 +2386,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2405,7 +2405,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2424,7 +2424,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2481,7 +2481,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2500,7 +2500,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2519,7 +2519,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2538,7 +2538,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2557,7 +2557,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2576,7 +2576,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2595,7 +2595,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2614,7 +2614,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2633,7 +2633,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -2652,7 +2652,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
@@ -10087,7 +10087,7 @@
       "Mod": "Biotech",
       "BasePrice": 1000,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "Shell_Toxic": {
       "DefName": "Shell_Toxic",
@@ -11145,13 +11145,13 @@
       "QuantityLimit": 100,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
       "BasePrice": 200,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "MindNumbSerum": {
       "DefName": "MindNumbSerum",
@@ -11892,7 +11892,7 @@
       "Mod": "Odyssey",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "OxygenPump": {
       "DefName": "OxygenPump",
@@ -11930,7 +11930,7 @@
       "Mod": "Odyssey",
       "BasePrice": 180,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "WaspDroneTrap": {
       "DefName": "WaspDroneTrap",
@@ -11949,7 +11949,7 @@
       "Mod": "Odyssey",
       "BasePrice": 80,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "MastodonTusk": {
       "DefName": "MastodonTusk",
@@ -12019,7 +12019,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12038,7 +12038,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12057,7 +12057,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12076,7 +12076,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12095,7 +12095,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12114,7 +12114,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12133,7 +12133,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12152,7 +12152,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12171,7 +12171,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12190,7 +12190,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12209,7 +12209,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12228,7 +12228,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12285,7 +12285,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12304,7 +12304,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12323,7 +12323,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12342,7 +12342,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12361,7 +12361,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12380,7 +12380,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12399,7 +12399,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12418,7 +12418,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12437,7 +12437,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12456,7 +12456,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12475,7 +12475,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -12494,7 +12494,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
@@ -13298,7 +13298,7 @@
       "Mod": "Odyssey",
       "BasePrice": 305,
       "Category": "Apparel",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_CerebrexNode": {
       "DefName": "Apparel_CerebrexNode",
@@ -18460,13 +18460,13 @@
       "QuantityLimit": 250,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Factions Expanded - Settlers",
       "BasePrice": 10,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "ChemBoiler": {
       "DefName": "ChemBoiler",
@@ -18504,7 +18504,7 @@
       "Mod": "Vanilla Factions Expanded - Settlers",
       "BasePrice": 57,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "StoolBar": {
       "DefName": "StoolBar",
@@ -19790,7 +19790,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19809,7 +19809,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19828,7 +19828,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19847,7 +19847,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19866,7 +19866,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19923,7 +19923,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19942,7 +19942,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19961,7 +19961,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19980,7 +19980,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -19999,7 +19999,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20018,7 +20018,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20037,7 +20037,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20056,7 +20056,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20075,7 +20075,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20170,7 +20170,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20189,7 +20189,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20208,7 +20208,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20227,7 +20227,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20246,7 +20246,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20265,7 +20265,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20284,7 +20284,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20303,7 +20303,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20322,7 +20322,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20341,7 +20341,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -20360,7 +20360,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -32102,7 +32102,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32121,7 +32121,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32159,7 +32159,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32311,7 +32311,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32349,7 +32349,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32368,7 +32368,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32387,7 +32387,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32406,7 +32406,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32425,7 +32425,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32444,7 +32444,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -32463,7 +32463,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Megafauna",
@@ -33280,7 +33280,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33299,7 +33299,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33318,7 +33318,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33337,7 +33337,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33432,7 +33432,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33451,7 +33451,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33546,7 +33546,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33565,7 +33565,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33660,7 +33660,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33679,7 +33679,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33698,7 +33698,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33717,7 +33717,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33736,7 +33736,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33755,7 +33755,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33774,7 +33774,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33793,7 +33793,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33812,7 +33812,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33831,7 +33831,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33850,7 +33850,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33869,7 +33869,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33926,7 +33926,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33945,7 +33945,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33964,7 +33964,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -33983,7 +33983,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34002,7 +34002,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34021,7 +34021,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34040,7 +34040,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34059,7 +34059,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34078,7 +34078,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34097,7 +34097,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34116,7 +34116,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34135,7 +34135,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34154,7 +34154,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34173,7 +34173,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34230,7 +34230,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34249,7 +34249,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34268,7 +34268,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34287,7 +34287,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34306,7 +34306,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34325,7 +34325,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34344,7 +34344,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34363,7 +34363,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34382,7 +34382,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34401,7 +34401,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34420,7 +34420,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34439,7 +34439,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34458,7 +34458,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -34477,7 +34477,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dinosauria",
@@ -36757,7 +36757,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -36776,7 +36776,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -36814,7 +36814,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -36833,7 +36833,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -36852,7 +36852,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -36871,7 +36871,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -37194,7 +37194,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -37441,7 +37441,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -39683,7 +39683,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -39854,7 +39854,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -39873,7 +39873,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -39949,7 +39949,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -42780,13 +42780,13 @@
       "QuantityLimit": 1500,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alien | Rimworld",
       "BasePrice": 320,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "XMT_Genepack": {
       "DefName": "XMT_Genepack",
@@ -42837,7 +42837,7 @@
       "QuantityLimit": 90,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alien | Rimworld",
@@ -42932,13 +42932,13 @@
       "QuantityLimit": 1500,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alien | Rimworld",
       "BasePrice": 10,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "Starbeast_Chitin": {
       "DefName": "Starbeast_Chitin",
@@ -44724,7 +44724,7 @@
       "Mod": "Alpha Genes",
       "BasePrice": 400,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "AG_AncientShelf": {
       "DefName": "AG_AncientShelf",
@@ -44743,7 +44743,7 @@
       "Mod": "Alpha Genes",
       "BasePrice": 3,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "AG_ForsakenForge": {
       "DefName": "AG_ForsakenForge",
@@ -45022,7 +45022,7 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Genes",
@@ -52622,13 +52622,13 @@
       "QuantityLimit": 250,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Rim-Gnoblins",
       "BasePrice": 6,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "ShardMethamphetamine": {
       "DefName": "ShardMethamphetamine",
@@ -52641,7 +52641,7 @@
       "QuantityLimit": 250,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Rim-Gnoblins",
@@ -57980,7 +57980,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Star Wars : The Force Standalone",
@@ -57999,7 +57999,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Star Wars : The Force Standalone",
@@ -60108,7 +60108,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60127,7 +60127,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60146,7 +60146,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60165,7 +60165,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60184,7 +60184,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60203,7 +60203,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60222,7 +60222,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60241,7 +60241,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60260,7 +60260,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60279,7 +60279,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60298,7 +60298,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -60317,7 +60317,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded",
@@ -61419,7 +61419,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Endangered",
@@ -61438,7 +61438,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Endangered",
@@ -61457,7 +61457,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Endangered",
@@ -61476,7 +61476,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Endangered",
@@ -61742,7 +61742,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Royal Animals",
@@ -61761,7 +61761,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Royal Animals",
@@ -61780,7 +61780,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Royal Animals",
@@ -61799,7 +61799,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Royal Animals",
@@ -61951,7 +61951,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Waste Animals",
@@ -61970,7 +61970,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Waste Animals",
@@ -61989,7 +61989,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Waste Animals",
@@ -62008,7 +62008,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Animals Expanded — Waste Animals",
@@ -65219,7 +65219,7 @@
       "QuantityLimit": 1500,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Factions Expanded - Classical",
@@ -71305,7 +71305,7 @@
       "Mod": "Vanilla Quests Expanded - Cryptoforge",
       "BasePrice": 143,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VQE_AncientWargamingTable": {
       "DefName": "VQE_AncientWargamingTable",
@@ -71324,7 +71324,7 @@
       "Mod": "Vanilla Quests Expanded - Cryptoforge",
       "BasePrice": 360,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "VQE_AncientShieldedTurret": {
       "DefName": "VQE_AncientShieldedTurret",
@@ -71343,7 +71343,7 @@
       "Mod": "Vanilla Quests Expanded - Cryptoforge",
       "BasePrice": 220,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "VQE_CryptoArmor": {
       "DefName": "VQE_CryptoArmor",
@@ -71514,7 +71514,7 @@
       "Mod": "Vanilla Quests Expanded - Deadlife",
       "BasePrice": 10,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VQED_AncientKinoScreen": {
       "DefName": "VQED_AncientKinoScreen",
@@ -71533,7 +71533,7 @@
       "Mod": "Vanilla Quests Expanded - Deadlife",
       "BasePrice": 575,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "VQED_AncientKinoProjector": {
       "DefName": "VQED_AncientKinoProjector",
@@ -71552,7 +71552,7 @@
       "Mod": "Vanilla Quests Expanded - Deadlife",
       "BasePrice": 57,
       "Category": "Recreation",
-      "Enabled": true
+      "Enabled": false
     },
     "VQE_DisruptorFlare": {
       "DefName": "VQE_DisruptorFlare",
@@ -72331,7 +72331,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 530,
       "Category": "Vehicles",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Trawler": {
       "DefName": "VVE_Trawler",
@@ -72350,7 +72350,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1900,
       "Category": "Vehicles",
-      "Enabled": true
+      "Enabled": false
     },
     "VWEB_HeavyIncinerator": {
       "DefName": "VWEB_HeavyIncinerator",
@@ -73712,13 +73712,13 @@
       "QuantityLimit": 1500,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "[TW1.6]幻彩林地 Rainbow forest",
       "BasePrice": 40,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "TWRL_Weapon_UnicornHorn": {
       "DefName": "TWRL_Weapon_UnicornHorn",
@@ -73965,7 +73965,7 @@
       "Mod": "[TW1.6]幻彩林地 Rainbow forest",
       "BasePrice": 400,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "sbz_Fridge": {
       "DefName": "sbz_Fridge",
@@ -81812,7 +81812,7 @@
       "Mod": "[TW1.6]幻彩林地 Rainbow forest",
       "BasePrice": 2,
       "Category": "Meat",
-      "Enabled": true
+      "Enabled": false
     },
     "Techprint_CataphractArmor": {
       "DefName": "Techprint_CataphractArmor",
@@ -87512,7 +87512,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Wasp": {
       "DefName": "Drone_Wasp",
@@ -87531,7 +87531,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Sentry": {
       "DefName": "Drone_Sentry",
@@ -87924,7 +87924,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -87962,7 +87962,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -87981,7 +87981,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -88019,7 +88019,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -88038,7 +88038,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -88076,7 +88076,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -88095,7 +88095,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -88133,7 +88133,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Animals",
@@ -88399,7 +88399,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88418,7 +88418,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88456,7 +88456,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88475,7 +88475,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88494,7 +88494,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88513,7 +88513,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88551,7 +88551,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88589,7 +88589,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88608,7 +88608,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88627,7 +88627,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88798,7 +88798,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88969,7 +88969,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -88988,7 +88988,7 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -89045,7 +89045,7 @@
       "QuantityLimit": 750,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Genetics Expanded",
@@ -90913,7 +90913,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 5,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientEquipmentBlocks": {
       "DefName": "VME_AncientEquipmentBlocks",
@@ -90932,7 +90932,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 7,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMachine": {
       "DefName": "VME_AncientMachine",
@@ -90951,7 +90951,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientStorageCylinder": {
       "DefName": "VME_AncientStorageCylinder",
@@ -90970,7 +90970,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 7,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientBed": {
       "DefName": "VME_AncientBed",
@@ -90989,7 +90989,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 2,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientDisplayBank": {
       "DefName": "VME_AncientDisplayBank",
@@ -91008,7 +91008,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 5,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLockerBank": {
       "DefName": "VME_AncientLockerBank",
@@ -91027,7 +91027,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 3,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientCrate": {
       "DefName": "VME_AncientCrate",
@@ -91046,7 +91046,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMilitaryCrate": {
       "DefName": "VME_AncientMilitaryCrate",
@@ -91065,7 +91065,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSpacerCrate": {
       "DefName": "VME_AncientSpacerCrate",
@@ -91084,7 +91084,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientBarrel": {
       "DefName": "VME_AncientBarrel",
@@ -91103,7 +91103,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientGenerator": {
       "DefName": "VME_AncientGenerator",
@@ -91122,7 +91122,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientOperatingTable": {
       "DefName": "VME_AncientOperatingTable",
@@ -91141,7 +91141,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientShoppingCart": {
       "DefName": "VME_AncientShoppingCart",
@@ -91160,7 +91160,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPostbox": {
       "DefName": "VME_AncientPostbox",
@@ -91179,7 +91179,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientVendingMachine": {
       "DefName": "VME_AncientVendingMachine",
@@ -91198,7 +91198,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientAirConditioner": {
       "DefName": "VME_AncientAirConditioner",
@@ -91217,7 +91217,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientKitchenSink": {
       "DefName": "VME_AncientKitchenSink",
@@ -91236,7 +91236,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientStove": {
       "DefName": "VME_AncientStove",
@@ -91255,7 +91255,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientOven": {
       "DefName": "VME_AncientOven",
@@ -91274,7 +91274,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientATM": {
       "DefName": "VME_AncientATM",
@@ -91293,7 +91293,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWashingMachine": {
       "DefName": "VME_AncientWashingMachine",
@@ -91312,7 +91312,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientHydrant": {
       "DefName": "VME_AncientHydrant",
@@ -91331,7 +91331,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMicrowave": {
       "DefName": "VME_AncientMicrowave",
@@ -91350,7 +91350,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientToilet": {
       "DefName": "VME_AncientToilet",
@@ -91369,7 +91369,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRefrigerator": {
       "DefName": "VME_AncientRefrigerator",
@@ -91388,7 +91388,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSmallCrate": {
       "DefName": "VME_AncientSmallCrate",
@@ -91407,7 +91407,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLongCrate": {
       "DefName": "VME_AncientLongCrate",
@@ -91426,7 +91426,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLargeCrate": {
       "DefName": "VME_AncientLargeCrate",
@@ -91445,7 +91445,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWheel": {
       "DefName": "VME_AncientWheel",
@@ -91464,7 +91464,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientGiantWheel": {
       "DefName": "VME_AncientGiantWheel",
@@ -91483,7 +91483,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedCar": {
       "DefName": "VME_AncientRustedCar",
@@ -91502,7 +91502,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedTruck": {
       "DefName": "VME_AncientRustedTruck",
@@ -91521,7 +91521,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedJeep": {
       "DefName": "VME_AncientRustedJeep",
@@ -91540,7 +91540,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedCarFrame": {
       "DefName": "VME_AncientRustedCarFrame",
@@ -91559,7 +91559,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerTorso": {
       "DefName": "VME_AncientWarwalkerTorso",
@@ -91578,7 +91578,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedDropship": {
       "DefName": "VME_AncientRustedDropship",
@@ -91597,7 +91597,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerClaw": {
       "DefName": "VME_AncientWarwalkerClaw",
@@ -91616,7 +91616,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerLeg": {
       "DefName": "VME_AncientWarwalkerLeg",
@@ -91635,7 +91635,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMiniWarwalkerRemains": {
       "DefName": "VME_AncientMiniWarwalkerRemains",
@@ -91654,7 +91654,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarspiderRemains": {
       "DefName": "VME_AncientWarspiderRemains",
@@ -91673,7 +91673,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPipelineSection": {
       "DefName": "VME_AncientPipelineSection",
@@ -91692,7 +91692,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerFoot": {
       "DefName": "VME_AncientWarwalkerFoot",
@@ -91711,7 +91711,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientTank": {
       "DefName": "VME_AncientTank",
@@ -91730,7 +91730,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientAPC": {
       "DefName": "VME_AncientAPC",
@@ -91749,7 +91749,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerShell": {
       "DefName": "VME_AncientWarwalkerShell",
@@ -91768,7 +91768,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientJetEngine": {
       "DefName": "VME_AncientJetEngine",
@@ -91787,7 +91787,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientDropshipEngine": {
       "DefName": "VME_AncientDropshipEngine",
@@ -91806,7 +91806,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPodCar": {
       "DefName": "VME_AncientPodCar",
@@ -91825,7 +91825,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientTankTrap": {
       "DefName": "VME_AncientTankTrap",
@@ -91844,7 +91844,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLargeRustedEngineBlock": {
       "DefName": "VME_AncientLargeRustedEngineBlock",
@@ -91863,7 +91863,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientFence": {
       "DefName": "VME_AncientFence",
@@ -91882,7 +91882,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRazorWire": {
       "DefName": "VME_AncientRazorWire",
@@ -91901,7 +91901,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPipes": {
       "DefName": "VME_AncientPipes",
@@ -91920,7 +91920,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMegaCannonTripod": {
       "DefName": "VME_AncientMegaCannonTripod",
@@ -91939,7 +91939,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMegaCannonBarrel": {
       "DefName": "VME_AncientMegaCannonBarrel",
@@ -91958,7 +91958,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientContainer": {
       "DefName": "VME_AncientContainer",
@@ -91977,7 +91977,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMechanoidShell": {
       "DefName": "VME_AncientMechanoidShell",
@@ -91996,7 +91996,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMechDropBeacon": {
       "DefName": "VME_AncientMechDropBeacon",
@@ -92015,7 +92015,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSecurityTurret": {
       "DefName": "VME_AncientSecurityTurret",
@@ -92034,7 +92034,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedEngineBlock": {
       "DefName": "VME_AncientRustedEngineBlock",
@@ -92053,7 +92053,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientShipBeacon": {
       "DefName": "VME_AncientShipBeacon",
@@ -92072,7 +92072,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSpaceJunk": {
       "DefName": "VME_AncientSpaceJunk",
@@ -92091,7 +92091,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VRESaurids_HumanEgg": {
       "DefName": "VRESaurids_HumanEgg",
@@ -92104,7 +92104,7 @@
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "ResearchOverrides": null,
-      "IsUsable": true,
+      "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Races Expanded - Saurid",
@@ -92147,8 +92147,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1570,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Bunsen": {
       "DefName": "VVE_Bunsen",
@@ -92166,8 +92166,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2830,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Dirtbike": {
       "DefName": "VVE_Dirtbike",
@@ -92185,8 +92185,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 910,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Frog": {
       "DefName": "VVE_Frog",
@@ -92204,8 +92204,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1515,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Highwayman": {
       "DefName": "VVE_Highwayman",
@@ -92223,8 +92223,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2240,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Mule": {
       "DefName": "VVE_Mule",
@@ -92242,8 +92242,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2055,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Prowler": {
       "DefName": "VVE_Prowler",
@@ -92261,8 +92261,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1490,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Roadkill": {
       "DefName": "VVE_Roadkill",
@@ -92280,8 +92280,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2870,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Scytheman": {
       "DefName": "VVE_Scytheman",
@@ -92299,8 +92299,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2025,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Toad": {
       "DefName": "VVE_Toad",
@@ -92318,8 +92318,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2400,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Traveller": {
       "DefName": "VVE_Traveller",
@@ -92337,8 +92337,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1675,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Bulldog": {
       "DefName": "VVE_Bulldog",
@@ -92356,8 +92356,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4770,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Charley": {
       "DefName": "VVE_Charley",
@@ -92375,8 +92375,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1510,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Mosquito": {
       "DefName": "VVE_Mosquito",
@@ -92394,8 +92394,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 3925,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Roadrunner": {
       "DefName": "VVE_Roadrunner",
@@ -92413,8 +92413,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2735,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Smuggler": {
       "DefName": "VVE_Smuggler",
@@ -92432,8 +92432,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 3780,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Snatcher": {
       "DefName": "VVE_Snatcher",
@@ -92451,8 +92451,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2615,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Tango": {
       "DefName": "VVE_Tango",
@@ -92470,8 +92470,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4705,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Wagon": {
       "DefName": "VVE_Wagon",
@@ -92489,8 +92489,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2250,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Warbird": {
       "DefName": "VVE_Warbird",
@@ -92508,8 +92508,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2945,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Wisent": {
       "DefName": "VVE_Wisent",
@@ -92527,8 +92527,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4300,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Badger": {
       "DefName": "VVE_Badger",
@@ -92546,8 +92546,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 5200,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_BigRig": {
       "DefName": "VVE_BigRig",
@@ -92565,8 +92565,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 5715,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Burya": {
       "DefName": "VVE_Burya",
@@ -92584,8 +92584,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 7000,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Cherokee": {
       "DefName": "VVE_Cherokee",
@@ -92603,8 +92603,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 12160,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Goliath": {
       "DefName": "VVE_Goliath",
@@ -92622,8 +92622,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 2380,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Hermano": {
       "DefName": "VVE_Hermano",
@@ -92641,8 +92641,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 3870,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Lightning": {
       "DefName": "VVE_Lightning",
@@ -92660,8 +92660,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 3795,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Louie": {
       "DefName": "VVE_Louie",
@@ -92679,8 +92679,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 7225,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Marshal": {
       "DefName": "VVE_Marshal",
@@ -92698,8 +92698,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 6400,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Nomad": {
       "DefName": "VVE_Nomad",
@@ -92717,8 +92717,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 3530,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Paladin": {
       "DefName": "VVE_Paladin",
@@ -92736,8 +92736,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 4805,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Springbok": {
       "DefName": "VVE_Springbok",
@@ -92755,8 +92755,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 4160,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "VVE_Udar": {
       "DefName": "VVE_Udar",
@@ -92774,8 +92774,8 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 6375,
-      "Category": "Misc",
-      "Enabled": true
+      "Category": "Vehicles",
+      "Enabled": false
     },
     "AM_Mech_Nucleotron": {
       "DefName": "AM_Mech_Nucleotron",
@@ -92946,7 +92946,7 @@
       "Mod": "Hospitality (Continued)",
       "BasePrice": 99,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "BedGuest": {
       "DefName": "BedGuest",
@@ -93174,7 +93174,7 @@
       "Mod": "Hospitality (Continued)",
       "BasePrice": 400,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "LoftBedGuest": {
       "DefName": "LoftBedGuest",
@@ -93554,7 +93554,7 @@
       "Mod": "Hospitality (Continued)",
       "BasePrice": 2,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VQE_RuinedHospitalBedGuest": {
       "DefName": "VQE_RuinedHospitalBedGuest",
@@ -93573,7 +93573,7 @@
       "Mod": "Hospitality (Continued)",
       "BasePrice": 144,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     },
     "VQED_RustedAncientCotGuest": {
       "DefName": "VQED_RustedAncientCotGuest",
@@ -93592,7 +93592,7 @@
       "Mod": "Hospitality (Continued)",
       "BasePrice": 10,
       "Category": "Furniture",
-      "Enabled": true
+      "Enabled": false
     }
   }
 }
